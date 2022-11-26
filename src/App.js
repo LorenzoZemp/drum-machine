@@ -232,7 +232,7 @@ function App() {
             return (
               <button
                 className={
-                  "h-36 w-36 bg-neu-linear-gradient-out rounded-30 shadow-neu-shadow"
+                  "h-36 w-36 bg-neu-linear-gradient-out rounded-30 shadow-neu-shadow-out text-gray-600"
                 }
                 onClick={handleClick}
                 id={key.key}

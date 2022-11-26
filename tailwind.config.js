@@ -14,7 +14,7 @@ module.exports = {
         "neu-linear-gradient-in": "linear-gradient(145deg, #cacaca, #f0f0f0)",
       },
       boxShadow: {
-        "neu-shadow": "11px 11px 22px #bebebe, -11px -11px 22px #ffffff",
+        "neu-shadow-out": "11px 11px 22px #bebebe, -11px -11px 22px #ffffff",
       },
     },
   },
